@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'resumepic.jpg',
-  paragraphOne: '',
+  paragraphOne: 'The webdeveloper you want to reach for building a custom website for your brand.period!',
   paragraphTwo: '',
   paragraphThree: '',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
@@ -83,7 +83,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/Siddiquechengapra',
     },
   ],
 };
